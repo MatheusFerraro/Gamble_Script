@@ -8,8 +8,7 @@ Example:
 E | A | A | E | D
 
 
-You won, $0
-Do you want to play again (y/n)?
+You won, $0. Do you want to play again (y/n)?
 
 for you to win some money you need to be lucky to hit 5 in a row : A | A | A | A | A
 
