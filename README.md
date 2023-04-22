@@ -6,10 +6,7 @@ First u deposit some money, you put in an amount, then choose the number of line
 Example:
 
 E | A | A | E | D
-C | D | B | D | F
-F | C | F | D | C
-E | F | D | F | F
-A | E | C | C | E
+
 
 You won, $0
 Do you want to play again (y/n)?
